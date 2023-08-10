@@ -1,0 +1,13 @@
+#editor{
+  width: 500px;
+  height: 140px;
+  padding: 20px;
+  background-color: aliceblue;
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.3);
+}
+
+ @media screen and (max-width: 480px) {
+    #editor{
+    width: 300px;
+  }
+ }
